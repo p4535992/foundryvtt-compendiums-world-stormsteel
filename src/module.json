@@ -2,7 +2,7 @@
   "name": "foundryvtt-compendiums-world-stormsteel",
   "title": "FoundryVTT Compendiums World Stormsteel",
   "description": "Compendiums collection",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "4535992",
   "type": "module",
   "socket": true,
@@ -52,10 +52,31 @@
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
+      "name": "stormsteel-actor-npchumanoiddrow",
+      "entity": "Actor",
+      "label": "STST - Stormsteel Actor NPC Humanoid Drow",
+      "path": "packs/stormsteel-actor-npchumanoiddrow.db",
+      "module" : "foundryvtt-compendiums-world-stormsteel"
+    },
+    {
+      "name": "stormsteel-actor-npchumanoidmix",
+      "entity": "Actor",
+      "label": "STST - Stormsteel Actor NPC Mix",
+      "path": "packs/stormsteel-actor-npchumanoidmix.db",
+      "module" : "foundryvtt-compendiums-world-stormsteel"
+    },
+    {
       "name": "stormsteel-actor-npcstory",
       "entity": "Actor",
       "label": "STST - Stormsteel Actor NPC Story",
       "path": "packs/stormsteel-actor-npcstory.db",
+      "module" : "foundryvtt-compendiums-world-stormsteel"
+    },
+    {
+      "name": "stormsteel-actor-player",
+      "entity": "Actor",
+      "label": "STST - Stormsteel Actor Player",
+      "path": "packs/stormsteel-actor-player.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
@@ -127,7 +148,7 @@
   ],
   "url": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel",
   "manifest": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/src/module.json",
-  "download": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/package/foundryvtt-compendiums-world-stormsteel-v1.0.5.zip",
+  "download": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/package/foundryvtt-compendiums-world-stormsteel-v1.0.6.zip",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.7",
   "changelog": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/changelog.md",
