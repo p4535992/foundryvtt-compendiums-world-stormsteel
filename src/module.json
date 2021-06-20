@@ -42,63 +42,63 @@
       "entity": "Scene",
       "name": "STST - stormsteelscene",
       "path": "packs/stormsteelscene.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteelActorNPCHumanoid",
       "entity": "Actor",
       "name": "STST - stormsteelactornpchumanoid",
       "path": "packs/stormsteelactornpchumanoid.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteel-the-porvenir-actor",
       "entity": "Actor",
       "name": "STST - stormsteel-the-porvenir-actor",
       "path": "packs/stormsteel-the-porvenir-actor.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteel-the-porvenir-item",
       "entity": "Item",
       "name": "STST - stormsteel-the-porvenir-item",
       "path": "packs/stormsteel-the-porvenir-item.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteel-the-porvenir-journalentry",
       "entity": "JournalEntry",
       "name": "STST - stormsteel-the-porvenir-journalentry",
       "path": "packs/stormsteel-the-porvenir-journalentry.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteel-the-porvenir-macro",
       "entity": "Macro",
       "name": "STST - stormsteel-the-porvenir-macro",
       "path": "packs/stormsteel-the-porvenir-macro.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteel-the-porvenir-rolltable",
       "entity": "RollTable",
       "name": "STST - stormsteel-the-porvenir-rolltable",
       "path": "packs/stormsteel-the-porvenir-rolltable.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteel-the-porvenir-scene",
       "entity": "Scene",
       "name": "STST - stormsteel-the-porvenir-scene",
       "path": "packs/stormsteel-the-porvenir-scene.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "label": "stormsteel-the-porvenir-playlist",
       "entity": "Playlist",
       "name": "STST - stormsteel-the-porvenir-playlist",
       "path": "packs/stormsteel-the-porvenir-playlist.db",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-fa-dm-screen-toc",
@@ -106,7 +106,7 @@
       "path": "packs/stormsteel-fa-dm-screen.db",
       "entity": "JournalEntry",
       "system": "dnd5e",
-      "module" : "foundryvtt-compendiums-mix-dnd5e"
+      "module" : "foundryvtt-compendiums-world-stormsteel"
     }
   ],
   "dependencies": [
