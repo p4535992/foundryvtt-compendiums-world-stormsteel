@@ -38,65 +38,65 @@
   "styles": [],
   "packs": [
     {
-      "label": "stormsteelScene",
+      "name": "stormsteelScene",
       "entity": "Scene",
-      "name": "STST - stormsteelscene",
+      "label": "STST - stormsteelscene",
       "path": "packs/stormsteelscene.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteelActorNPCHumanoid",
+      "name": "stormsteelActorNPCHumanoid",
       "entity": "Actor",
-      "name": "STST - stormsteelactornpchumanoid",
+      "label": "STST - stormsteelactornpchumanoid",
       "path": "packs/stormsteelactornpchumanoid.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteel-the-porvenir-actor",
+      "name": "stormsteel-the-porvenir-actor",
       "entity": "Actor",
-      "name": "STST - stormsteel-the-porvenir-actor",
+      "label": "STST - stormsteel-the-porvenir-actor",
       "path": "packs/stormsteel-the-porvenir-actor.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteel-the-porvenir-item",
+      "name": "stormsteel-the-porvenir-item",
       "entity": "Item",
-      "name": "STST - stormsteel-the-porvenir-item",
+      "label": "STST - stormsteel-the-porvenir-item",
       "path": "packs/stormsteel-the-porvenir-item.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteel-the-porvenir-journalentry",
+      "name": "stormsteel-the-porvenir-journalentry",
       "entity": "JournalEntry",
-      "name": "STST - stormsteel-the-porvenir-journalentry",
+      "label": "STST - stormsteel-the-porvenir-journalentry",
       "path": "packs/stormsteel-the-porvenir-journalentry.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteel-the-porvenir-macro",
+      "name": "stormsteel-the-porvenir-macro",
       "entity": "Macro",
-      "name": "STST - stormsteel-the-porvenir-macro",
+      "label": "STST - stormsteel-the-porvenir-macro",
       "path": "packs/stormsteel-the-porvenir-macro.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteel-the-porvenir-rolltable",
+      "name": "stormsteel-the-porvenir-rolltable",
       "entity": "RollTable",
-      "name": "STST - stormsteel-the-porvenir-rolltable",
+      "label": "STST - stormsteel-the-porvenir-rolltable",
       "path": "packs/stormsteel-the-porvenir-rolltable.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteel-the-porvenir-scene",
+      "name": "stormsteel-the-porvenir-scene",
       "entity": "Scene",
-      "name": "STST - stormsteel-the-porvenir-scene",
+      "label": "STST - stormsteel-the-porvenir-scene",
       "path": "packs/stormsteel-the-porvenir-scene.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "label": "stormsteel-the-porvenir-playlist",
+      "name": "stormsteel-the-porvenir-playlist",
       "entity": "Playlist",
-      "name": "STST - stormsteel-the-porvenir-playlist",
+      "label": "STST - stormsteel-the-porvenir-playlist",
       "path": "packs/stormsteel-the-porvenir-playlist.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
