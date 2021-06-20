@@ -54,7 +54,7 @@
     {
       "label": "stormsteel-the-porvenir-actor",
       "entity": "Actor",
-      "name": "stormsteel-the-porvenir-actor",
+      "name": "STST - stormsteel-the-porvenir-actor",
       "path": "packs/stormsteel-the-porvenir-actor.db",
       "module" : "foundryvtt-compendiums-mix-dnd5e"
     },
