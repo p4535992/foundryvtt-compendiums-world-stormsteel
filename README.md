@@ -5,6 +5,8 @@
   
 This is a collection of some private projects compendiums.
 
+I'm not suggesting you should use is very bugged collection.
+
 ## Installation
 
 It's always easiest to install modules from the in game add-on browser.
@@ -16,6 +18,12 @@ To install this module manually:
 `https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/src/module.json`
 4.  Click 'Install' and wait for installation to complete
 5.  Don't forget to enable the module in game using the "Manage Module" button
+
+## Credit
+
+Thanks to anyone who helps me with this code! I appreciate the user community's feedback on this project!
+
+- [Table of Contents Journal Entries for the Forgotten Adventures Extensive DM Screen 5e](https://gitlab.com/fohswe/fa-dm-screen)
 
 ## License
 
