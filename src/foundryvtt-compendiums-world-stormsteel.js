@@ -50,7 +50,7 @@ function compendiumColor() {
 
     var comps = document.getElementsByClassName("pack-title");
     for (let comp of comps) {
-        let indexStormsteel = comp.innerText.indexOf("stormsteel");
+        let indexStormsteel = comp.innerText.indexOf("STST");
 		if (indexStormsteel !== -1) {
             comp.style.color = "DarkBlue";
         }
