@@ -40,106 +40,64 @@
     {
       "name": "stormsteel-scene",
       "entity": "Scene",
-      "label": "STST - Stormsteel Scene",
+      "label": "STST - Scene",
       "path": "packs/stormsteel-scene.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoid",
       "entity": "Actor",
-      "label": "STST - Stormsteel Actor NPC Humanoid",
+      "label": "STST - Actor NPC Humanoid",
       "path": "packs/stormsteel-actor-npchumanoid.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoiddrow",
       "entity": "Actor",
-      "label": "STST - Stormsteel Actor NPC Humanoid Drow",
+      "label": "STST - Actor NPC Humanoid Drow",
       "path": "packs/stormsteel-actor-npchumanoiddrow.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoidmix",
       "entity": "Actor",
-      "label": "STST - Stormsteel Actor NPC Mix",
+      "label": "STST - Actor NPC Mix",
       "path": "packs/stormsteel-actor-npchumanoidmix.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoidsamurai",
       "entity": "Actor",
-      "label": "STST - Stormsteel Actor NPC Samurai",
+      "label": "STST - Actor NPC Samurai",
       "path": "packs/stormsteel-actor-npchumanoidsamurai.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npcstory",
       "entity": "Actor",
-      "label": "STST - Stormsteel Actor NPC Story",
+      "label": "STST - Actor NPC Story",
       "path": "packs/stormsteel-actor-npcstory.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-player",
       "entity": "Actor",
-      "label": "STST - Stormsteel Actor Player",
+      "label": "STST - Actor Player",
       "path": "packs/stormsteel-actor-player.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-journal",
       "entity": "Actor",
-      "label": "STST - Stormsteel Journal",
+      "label": "STST - Journal",
       "path": "packs/stormsteel-actor-journal.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "name": "stormsteel-the-porvenir-actor",
+      "name": "stormsteel-actor-npcmix",
       "entity": "Actor",
-      "label": "STST - The Porvenir Actor",
-      "path": "packs/stormsteel-the-porvenir-actor.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
-    },
-    {
-      "name": "stormsteel-the-porvenir-item",
-      "entity": "Item",
-      "label": "STST - The Porvenir Item",
-      "path": "packs/stormsteel-the-porvenir-item.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
-    },
-    {
-      "name": "stormsteel-the-porvenir-journalentry",
-      "entity": "JournalEntry",
-      "label": "STST - The Porvenir Journal",
-      "path": "packs/stormsteel-the-porvenir-journalentry.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
-    },
-    {
-      "name": "stormsteel-the-porvenir-macro",
-      "entity": "Macro",
-      "label": "STST - The Porvenir Macro",
-      "path": "packs/stormsteel-the-porvenir-macro.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
-    },
-    {
-      "name": "stormsteel-the-porvenir-rolltable",
-      "entity": "RollTable",
-      "label": "STST - The Porvenir Rolltable",
-      "path": "packs/stormsteel-the-porvenir-rolltable.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
-    },
-    {
-      "name": "stormsteel-the-porvenir-scene",
-      "entity": "Scene",
-      "label": "STST - The Porvenir Scene",
-      "path": "packs/stormsteel-the-porvenir-scene.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
-    },
-    {
-      "name": "stormsteel-the-porvenir-playlist",
-      "entity": "Playlist",
-      "label": "STST - The Porvenir Playlist",
-      "path": "packs/stormsteel-the-porvenir-playlist.db",
+      "label": "STST - Actor NPC Mix",
+      "path": "packs/stormsteel-actor-npcmix.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
@@ -150,12 +108,26 @@
       "module" : "foundryvtt-compendiums-world-stormsteel"
     },
     {
-      "name": "stormsteel-item-merchant.db",
+      "name": "stormsteel-item-merchant",
       "entity": "Item",
       "label": "STST - Item Merchant",
       "path": "packs/stormsteel-item-merchant.db",
       "module" : "foundryvtt-compendiums-world-stormsteel"
-    }  
+    },
+    {
+      "name": "stormsteel-item-mix",
+      "entity": "Item",
+      "label": "STST - Item Mix",
+      "path": "packs/stormsteel-item-mix.db",
+      "module" : "foundryvtt-compendiums-world-stormsteel"
+    },
+    {
+      "name": "stormsteel-item-plants",
+      "entity": "Item",
+      "label": "STST - Item Plants",
+      "path": "packs/stormsteel-item-plants.db",
+      "module" : "foundryvtt-compendiums-world-stormsteel"
+    }
   ],
   "dependencies": [
   ],
