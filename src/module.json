@@ -2,7 +2,7 @@
   "name": "foundryvtt-compendiums-world-stormsteel",
   "title": "FoundryVTT Compendiums World Stormsteel",
   "description": "Compendiums collection",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "author": "4535992",
   "type": "module",
   "socket": true,
@@ -144,20 +144,26 @@
     },
     {
       "name": "stormsteel-fa-dm-screen-toc",
+      "entity": "JournalEntry",
       "label": "STST - FA's Exensive DM Screen",
       "path": "packs/stormsteel-fa-dm-screen.db",
-      "entity": "JournalEntry",
-      "system": "dnd5e",
       "module" : "foundryvtt-compendiums-world-stormsteel"
-    }
+    },
+    {
+      "name": "stormsteel-item-merchant.db",
+      "entity": "Item",
+      "label": "STST - Item Merchant",
+      "path": "packs/stormsteel-item-merchant.db",
+      "module" : "foundryvtt-compendiums-world-stormsteel"
+    }  
   ],
   "dependencies": [
   ],
   "url": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel",
   "manifest": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/src/module.json",
-  "download": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/package/foundryvtt-compendiums-world-stormsteel-v1.0.9.zip",
+  "download": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/package/foundryvtt-compendiums-world-stormsteel-v1.0.10.zip",
   "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.7",
+  "compatibleCoreVersion": "0.8.9",
   "changelog": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/changelog.md",
   "bugs": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/issues",
   "allowBugReporter": true
