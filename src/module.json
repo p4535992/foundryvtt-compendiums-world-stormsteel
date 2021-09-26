@@ -2,7 +2,7 @@
   "name": "foundryvtt-compendiums-world-stormsteel",
   "title": "FoundryVTT Compendiums World Stormsteel",
   "description": "Compendiums collection World Stormsteel",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "author": "4535992",
   "type": "module",
   "socket": true,
@@ -42,122 +42,120 @@
       "entity": "Scene",
       "label": "STST - Scene",
       "path": "packs/stormsteel-scene.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoid",
       "entity": "Actor",
       "label": "STST - Actor NPC Humanoid",
       "path": "packs/stormsteel-actor-npchumanoid.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoiddrow",
       "entity": "Actor",
       "label": "STST - Actor NPC Humanoid Drow",
       "path": "packs/stormsteel-actor-npchumanoiddrow.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoidmix",
       "entity": "Actor",
-      "label": "STST - Actor NPC Mix",
+      "label": "STST - Actor NPC Humanoid Mix",
       "path": "packs/stormsteel-actor-npchumanoidmix.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoidsamurai",
       "entity": "Actor",
       "label": "STST - Actor NPC Samurai",
       "path": "packs/stormsteel-actor-npchumanoidsamurai.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npcstory",
       "entity": "Actor",
       "label": "STST - Actor NPC Story",
       "path": "packs/stormsteel-actor-npcstory.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-player",
       "entity": "Actor",
       "label": "STST - Actor Player",
       "path": "packs/stormsteel-actor-player.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npcmix",
       "entity": "Actor",
       "label": "STST - Actor NPC Mix",
       "path": "packs/stormsteel-actor-npcmix.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-merchant",
       "entity": "Actor",
       "label": "STST - Actor NPC Merchant",
       "path": "packs/stormsteel-actor-merchant.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-fa-dm-screen-toc",
       "entity": "JournalEntry",
       "label": "STST - FA's Exensive DM Screen",
       "path": "packs/stormsteel-fa-dm-screen.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-journal",
       "entity": "JournalEntry",
       "label": "STST - Journal",
       "path": "packs/stormsteel-actor-journal.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-merchant",
       "entity": "Item",
       "label": "STST - Item Merchant",
       "path": "packs/stormsteel-item-merchant.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-mix",
       "entity": "Item",
       "label": "STST - Item Mix",
       "path": "packs/stormsteel-item-mix.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-plants",
       "entity": "Item",
       "label": "STST - Item Plants",
       "path": "packs/stormsteel-item-plants.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-hero-and-dragons",
       "entity": "Item",
       "label": "STST - Item H&D",
       "path": "packs/stormsteel-item-hero-and-dragons.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-spells-mix",
       "entity": "Item",
       "label": "STST - Item Spells Mix",
       "path": "packs/stormsteel-item-spells-mix.db",
-      "module" : "foundryvtt-compendiums-world-stormsteel"
+      "module": "foundryvtt-compendiums-world-stormsteel"
     }
   ],
-  "dependencies": [
-  ],
+  "dependencies": [],
   "url": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel",
-  "manifest": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/src/module.json",
-  "download": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/package/foundryvtt-compendiums-world-stormsteel-v1.0.11.zip",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
-  "changelog": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendiums-world-stormsteel/master/changelog.md",
+  "manifest": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/latest/download/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.0.12/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.0.12/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.0.12/changelog.md",
   "bugs": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/issues",
   "allowBugReporter": true
 }
