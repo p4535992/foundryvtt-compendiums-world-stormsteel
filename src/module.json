@@ -2,7 +2,7 @@
   "name": "foundryvtt-compendiums-world-stormsteel",
   "title": "FoundryVTT Compendiums World Stormsteel",
   "description": "Compendiums collection World Stormsteel",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "author": "4535992",
   "type": "module",
   "socket": true,
@@ -32,7 +32,7 @@
     }
   ],
   "languages": [],
-  "systems": ["dnd5e"],
+  "system": ["dnd5e"],
   "scripts": ["foundryvtt-compendiums-world-stormsteel.js"],
   "esmodules": [],
   "styles": [],
@@ -42,6 +42,13 @@
       "entity": "Scene",
       "label": "STST - Scene",
       "path": "packs/stormsteel-scene.db",
+      "module": "foundryvtt-compendiums-world-stormsteel"
+    },
+    {
+      "name": "stormsteel-scene-merchant",
+      "entity": "Scene",
+      "label": "STST - Scene Merchant",
+      "path": "packs/stormsteel-scene-merchant.db",
       "module": "foundryvtt-compendiums-world-stormsteel"
     },
     {
@@ -153,9 +160,9 @@
   "dependencies": [],
   "url": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel",
   "manifest": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/latest/download/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.0.12/module.zip",
-  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.0.12/README.md",
-  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.0.12/changelog.md",
+  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.0.13/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.0.13/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.0.13/changelog.md",
   "bugs": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/issues",
   "allowBugReporter": true
 }
