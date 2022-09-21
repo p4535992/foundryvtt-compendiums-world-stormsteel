@@ -1,4 +1,4 @@
-const COMPENDIUM_WORLD_STORMSTEEL_MODULE_NAME = 'foundryvtt-compendiums-world-stormsteel';
+const COMPENDIUM_WORLD_STORMSTEEL_MODULE_NAME = 'compendiums-world-stormsteel';
 
 /* ------------------------------------ */
 /* Initialize module					*/
