@@ -1,8 +1,8 @@
 {
   "name": "compendiums-world-stormsteel",
-  "version": "1.0.13",
+  "version": "1.1.0",
   "description": "",
-  "main": "compendiums-mix-dnd5e-private",
+  "main": "compendiums-world-stormsteel.js",
   "scripts": {
     "publish": "gulp publish --update",
     "package": "gulp package",
