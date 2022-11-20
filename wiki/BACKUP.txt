@@ -1,0 +1,14 @@
+    {
+      "name": "stormsteel-fa-dm-screen-toc",
+      "type": "JournalEntry",
+      "label": "STST - FA's Exensive DM Screen",
+      "path": "packs/stormsteel-fa-dm-screen.db",
+      "module": "compendiums-world-stormsteel"
+    },
+    {
+      "name": "stormsteel-item-plants",
+      "type": "Item",
+      "label": "STST - Item Plants",
+      "path": "packs/stormsteel-item-plants.db",
+      "module": "compendiums-world-stormsteel"
+    },

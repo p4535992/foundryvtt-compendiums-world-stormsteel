@@ -2,7 +2,7 @@
   "id": "compendiums-world-stormsteel",
   "title": "FoundryVTT Compendiums World Stormsteel",
   "description": "Compendiums collection World Stormsteel",
-  "version": "1.1.0",
+  "version": "1.1.2",
 	"authors": [
 		{
 			"name": "p4535992",
@@ -123,13 +123,6 @@
       "module": "compendiums-world-stormsteel"
     },
     {
-      "name": "stormsteel-fa-dm-screen-toc",
-      "type": "JournalEntry",
-      "label": "STST - FA's Exensive DM Screen",
-      "path": "packs/stormsteel-fa-dm-screen.db",
-      "module": "compendiums-world-stormsteel"
-    },
-    {
       "name": "stormsteel-actor-journal",
       "type": "JournalEntry",
       "label": "STST - Journal",
@@ -148,13 +141,6 @@
       "type": "Item",
       "label": "STST - Item Mix",
       "path": "packs/stormsteel-item-mix.db",
-      "module": "compendiums-world-stormsteel"
-    },
-    {
-      "name": "stormsteel-item-plants",
-      "type": "Item",
-      "label": "STST - Item Plants",
-      "path": "packs/stormsteel-item-plants.db",
       "module": "compendiums-world-stormsteel"
     },
     {
@@ -183,9 +169,9 @@
 	"manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel",
   "manifest": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/latest/download/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.1.0/module.zip",
-  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.1.0/README.md",
-  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.1.0/changelog.md",
+  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.1.2/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.1.2/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.1.2/changelog.md",
   "bugs": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/issues",
   "allowBugReporter": true,
 	"relationships": {
