@@ -20,17 +20,17 @@ Hooks.once('setup', function () {
 Hooks.once('ready', () => {
   /* Check for our DM Screen when Journals are opened, so we can resize it */
 
-  Hooks.on('renderJournalSheet', (app, html, data) => {
-    const title = app.title;
-    if (title !== 'Forgotten Adventures Extensive DM Screen') {
-      return;
-    }
+  // Hooks.on('renderJournalSheet', (app, html, data) => {
+  //   const title = app.title;
+  //   if (title !== 'Forgotten Adventures Extensive DM Screen') {
+  //     return;
+  //   }
 
-    app.setPosition({
-      height: 890,
-      width: 800,
-    });
-  });
+  //   app.setPosition({
+  //     height: 890,
+  //     width: 800,
+  //   });
+  // });
 });
 //--------------------------------------
 //----setting compendiums
