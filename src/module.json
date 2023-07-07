@@ -2,7 +2,7 @@
   "id": "compendiums-world-stormsteel",
   "title": "FoundryVTT Compendiums World Stormsteel",
   "description": "Compendiums collection World Stormsteel",
-  "version": "1.1.3",
+  "version": "1.2.1",
 	"authors": [
 		{
 			"name": "p4535992",
@@ -56,122 +56,122 @@
       "name": "stormsteel-scene",
       "type": "Scene",
       "label": "STST - Scene",
-      "path": "packs/stormsteel-scene.db",
+      "path": "packs/stormsteel-scene",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-scene-merchant",
       "type": "Scene",
       "label": "STST - Scene Merchant",
-      "path": "packs/stormsteel-scene-merchant.db",
+      "path": "packs/stormsteel-scene-merchant",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoid",
       "type": "Actor",
       "label": "STST - Actor NPC Humanoid",
-      "path": "packs/stormsteel-actor-npchumanoid.db",
+      "path": "packs/stormsteel-actor-npchumanoid",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoiddrow",
       "type": "Actor",
       "label": "STST - Actor NPC Humanoid Drow",
-      "path": "packs/stormsteel-actor-npchumanoiddrow.db",
+      "path": "packs/stormsteel-actor-npchumanoiddrow",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoidmix",
       "type": "Actor",
       "label": "STST - Actor NPC Humanoid Mix",
-      "path": "packs/stormsteel-actor-npchumanoidmix.db",
+      "path": "packs/stormsteel-actor-npchumanoidmix",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npchumanoidsamurai",
       "type": "Actor",
       "label": "STST - Actor NPC Samurai",
-      "path": "packs/stormsteel-actor-npchumanoidsamurai.db",
+      "path": "packs/stormsteel-actor-npchumanoidsamurai",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npcstory",
       "type": "Actor",
       "label": "STST - Actor NPC Story",
-      "path": "packs/stormsteel-actor-npcstory.db",
+      "path": "packs/stormsteel-actor-npcstory",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-player",
       "type": "Actor",
       "label": "STST - Actor Player",
-      "path": "packs/stormsteel-actor-player.db",
+      "path": "packs/stormsteel-actor-player",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-npcmix",
       "type": "Actor",
       "label": "STST - Actor NPC Mix",
-      "path": "packs/stormsteel-actor-npcmix.db",
+      "path": "packs/stormsteel-actor-npcmix",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-merchant",
       "type": "Actor",
       "label": "STST - Actor NPC Merchant",
-      "path": "packs/stormsteel-actor-merchant.db",
+      "path": "packs/stormsteel-actor-merchant",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-actor-journal",
       "type": "JournalEntry",
       "label": "STST - Journal",
-      "path": "packs/stormsteel-actor-journal.db",
+      "path": "packs/stormsteel-actor-journal",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-merchant",
       "type": "Item",
       "label": "STST - Item Merchant",
-      "path": "packs/stormsteel-item-merchant.db",
+      "path": "packs/stormsteel-item-merchant",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-mix",
       "type": "Item",
       "label": "STST - Item Mix",
-      "path": "packs/stormsteel-item-mix.db",
+      "path": "packs/stormsteel-item-mix",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-hero-and-dragons",
       "type": "Item",
       "label": "STST - Item H&D",
-      "path": "packs/stormsteel-item-hero-and-dragons.db",
+      "path": "packs/stormsteel-item-hero-and-dragons",
       "module": "compendiums-world-stormsteel"
     },
     {
       "name": "stormsteel-item-spells-mix",
       "type": "Item",
       "label": "STST - Item Spells Mix",
-      "path": "packs/stormsteel-item-spells-mix.db",
+      "path": "packs/stormsteel-item-spells-mix",
       "module": "compendiums-world-stormsteel"
     }
   ],
-  "scripts": ["compendiums-world-stormsteel.js"],
+  "scripts": ["module.js"],
   "esmodules": [],
   "styles": [],
 	"compatibility": {
-		"minimum": 10,
-		"verified": 10,
-		"maximum": 10
+		"minimum": 11,
+		"verified": 11,
+		"maximum": 11
 	},
 	"manifestPlusVersion": "1.2.1",
   "url": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel",
   "manifest": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/latest/download/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.1.3/module.zip",
-  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.1.3/README.md",
-  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.1.3/changelog.md",
+  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.2.1/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.2.1/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.2.1/changelog.md",
   "bugs": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/issues",
   "allowBugReporter": true,
 	"relationships": {
