@@ -148,7 +148,7 @@ Hooks.once("ready", async () => {
       iconText: ``,
       bannerImage: ``,
       backgroundColorText: `#005EB8`,
-    }
+    },
   ]);
 });
 
