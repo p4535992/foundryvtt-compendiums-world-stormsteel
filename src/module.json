@@ -3,189 +3,299 @@
   "title": "FoundryVTT Compendiums World Stormsteel",
   "description": "Compendiums collection World Stormsteel",
   "version": "1.2.1",
-	"authors": [
-		{
-			"name": "p4535992",
-			"url": "https://github.com/p4535992",
-			"discord": "",
-			"twitter": "",
-			"patreon": "p4535992",
-			"github": "p4535992",
-			"ko-fi": "",
-			"reddit": "",
-			"email": ""
-		}
-	],
-	"type": "module",
-	"socket": true,
-	"includes": [
-		"./assets/**",
-		"./lang/**",
-		"./languages/**",
-		"./scripts/**",
-		"./styles/**",
-		"./templates/**",
-		"./module.json",
-		"./README.md",
-		"./icons/**",
-		"./packs/**"
-	],
-	"media": [
-		{
-			"type": "icon",
-			"location": ""
-		},
-		{
-			"type": "cover",
-			"location": ""
-		},
-		{
-			"type": "screenshot",
-			"location": ""
-		}
-	],
-	"languages": [
-		{
-			"lang": "en",
-			"name": "English",
-			"path": "languages/en.json"
-		}
-	],
+  "authors": [],
+  "type": "module",
+  "socket": true,
+  "scripts": [],
+  "esmodules": ["module.js"],
+  "styles": [],
   "packs": [
     {
       "name": "stormsteel-scene",
       "type": "Scene",
       "label": "STST - Scene",
       "path": "packs/stormsteel-scene",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-scene-merchant",
       "type": "Scene",
       "label": "STST - Scene Merchant",
       "path": "packs/stormsteel-scene-merchant",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-npchumanoid",
       "type": "Actor",
       "label": "STST - Actor NPC Humanoid",
       "path": "packs/stormsteel-actor-npchumanoid",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-npchumanoiddrow",
       "type": "Actor",
       "label": "STST - Actor NPC Humanoid Drow",
       "path": "packs/stormsteel-actor-npchumanoiddrow",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-npchumanoidmix",
       "type": "Actor",
       "label": "STST - Actor NPC Humanoid Mix",
       "path": "packs/stormsteel-actor-npchumanoidmix",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-npchumanoidsamurai",
       "type": "Actor",
       "label": "STST - Actor NPC Samurai",
       "path": "packs/stormsteel-actor-npchumanoidsamurai",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-npcstory",
       "type": "Actor",
       "label": "STST - Actor NPC Story",
       "path": "packs/stormsteel-actor-npcstory",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-player",
       "type": "Actor",
       "label": "STST - Actor Player",
       "path": "packs/stormsteel-actor-player",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-npcmix",
       "type": "Actor",
       "label": "STST - Actor NPC Mix",
       "path": "packs/stormsteel-actor-npcmix",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-merchant",
       "type": "Actor",
       "label": "STST - Actor NPC Merchant",
       "path": "packs/stormsteel-actor-merchant",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-actor-journal",
       "type": "JournalEntry",
       "label": "STST - Journal",
       "path": "packs/stormsteel-actor-journal",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-item-merchant",
       "type": "Item",
       "label": "STST - Item Merchant",
       "path": "packs/stormsteel-item-merchant",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-item-mix",
       "type": "Item",
       "label": "STST - Item Mix",
       "path": "packs/stormsteel-item-mix",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-item-hero-and-dragons",
       "type": "Item",
       "label": "STST - Item H&D",
       "path": "packs/stormsteel-item-hero-and-dragons",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "name": "stormsteel-item-spells-mix",
       "type": "Item",
       "label": "STST - Item Spells Mix",
       "path": "packs/stormsteel-item-spells-mix",
-      "module": "compendiums-world-stormsteel"
+      "ownership": {
+        "PLAYER": "NONE",
+        "TRUSTED": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "module": "compendiums-world-stormsteel",
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
-  "scripts": ["module.js"],
-  "esmodules": [],
-  "styles": [],
-	"compatibility": {
-		"minimum": 11,
-		"verified": 11,
-		"maximum": 11
-	},
-	"manifestPlusVersion": "1.2.1",
-  "url": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel",
-  "manifest": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/latest/download/module.json",
-  "download": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/releases/download/v1.2.1/module.zip",
-  "readme": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.2.1/README.md",
-  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/blob/v1.2.1/changelog.md",
-  "bugs": "https://github.com/p4535992/foundryvtt-compendiums-world-stormsteel/issues",
+  "packFolders": [
+    {
+      "name": "Campaign Settings Stormsteel",
+      "color": "#00b9fb",
+      "sorting": "a",
+      "packs": [
+        "stormsteel-scene",
+        "stormsteel-scene-merchant",
+        "stormsteel-actor-npchumanoid",
+        "stormsteel-actor-npchumanoiddrow",
+        "stormsteel-actor-npchumanoidmix",
+        "stormsteel-actor-npchumanoidsamurai",
+        "stormsteel-actor-npcstory",
+        "stormsteel-actor-player",
+        "stormsteel-actor-npcmix",
+        "stormsteel-actor-merchant",
+        "stormsteel-actor-journal",
+        "stormsteel-item-merchant",
+        "stormsteel-item-mix",
+        "stormsteel-item-hero-and-dragons",
+        "stormsteel-item-spells-mix"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": 11,
+    "verified": 11,
+    "maximum": 11
+  },
+  "url": "https://github.com/p4535992/foundryvtt-compendiums-adv-dnd5e-fr1-private",
+  "manifest": "https://github.com/p4535992/foundryvtt-compendiums-adv-dnd5e-fr1-private/releases/download/1.0.1/module.json",
+  "download": "https://github.com/p4535992/foundryvtt-compendiums-adv-dnd5e-fr1-private/releases/download/1.0.1/module.zip",
+  "readme": "https://github.com/p4535992/foundryvtt-compendiums-adv-dnd5e-fr1-private/blob/master/README.md",
+  "changelog": "https://github.com/p4535992/foundryvtt-compendiums-adv-dnd5e-fr1-private/blob/master/CHANGELOG.md",
+  "bugs": "https://github.com/p4535992/foundryvtt-compendiums-adv-dnd5e-fr1-private/issues",
   "allowBugReporter": true,
-	"relationships": {
-		"systems": [
+  "manifestPlusVersion": "1.2.0",
+  "relationships": {
+    "systems": [
       {
-				"id": "dnd5e",
-				"type": "system",
-				"manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-				"compatibility": {
-					"verified": "2.0.2"
-				}
-			}
+        "id": "dnd5e",
+        "type": "system"
+      }
     ],
-		"requires": [],
-		"conflicts": []
-	}
+    "requires": [
+      {
+        "id": "compendium-themer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/p4535992/foundryvtt-compendium-themer/master/src/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "adventure-uninstaller",
+        "type": "module",
+        "manifest": "https://gitlab.com/mxzf/adventure-uninstaller/-/releases/permalink/latest/downloads/module.json",
+        "compatibility": {}
+      },
+      {
+        "id": "tile-scroll",
+        "type": "module"
+      },
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json"
+      }
+    ],
+    "conflicts": []
+  }
 }
