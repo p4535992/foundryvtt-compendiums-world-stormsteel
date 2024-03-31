@@ -1,7 +1,7 @@
 
-![](https://img.shields.io/badge/Foundry-v0.8.6-informational)
-
 # FoundryVTT Compendiums World Stormsteel
+
+TRANSFER TO https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e
   
 This is a collection of some private projects compendiums.
 
